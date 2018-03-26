@@ -22,7 +22,7 @@ def column_wise(data, column):
         plt.show()
 
 
-column_wise(data, "Incident")
+# column_wise(data, "Weapon")
 
 
 
